@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main{
+  background-color: darkcyan;
+  height: 700px;
+  width: 450px;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#Heading{
+ 
+  color: rgb(77, 255, 0);
+  font-size: x-large;
+}
+
+#opening{
+color: rgb(210, 195, 30);
+}
+
+.list{
+  color: rgb(238, 202, 112);
+}
